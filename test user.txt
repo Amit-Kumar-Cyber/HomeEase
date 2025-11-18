@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test users
 Customer user
 Email: user@test.com
@@ -18,4 +19,26 @@ Admin user
 Email: admin@test.com
 Password: password123
 Name: Priya Sharma
+=======
+Test users
+Customer user
+Email: user@test.com
+Password: password123
+Name: Rajesh Kumar
+Role: user
+
+
+Worker user
+Email: worker@test.com
+Password: password123
+Name: Amit Singh
+Role: worker
+Worker profile: verified, with skills and rating
+
+
+Admin user
+Email: admin@test.com
+Password: password123
+Name: Priya Sharma
+>>>>>>> 7b46e9e (Initial commit)
 Role: admin
